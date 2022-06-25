@@ -15,4 +15,4 @@ else
     Console.Write(Number2);
     Console.Write(" больше ");
     Console.Write(Number1);
-}
+}               
